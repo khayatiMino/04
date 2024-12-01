@@ -52,6 +52,7 @@ body {
 }
 
 .vvvb {
+    width: 85%;
     padding: 20px 10px;
     display: flex;
     flex-direction: column;
@@ -59,14 +60,12 @@ body {
     justify-content: center;
     direction: rtl;
     background-color: #a470dc;
-    width: 85%;
     border-radius: 25px;
 }
 
 .vv {
-    margin-top: 20px;
-    width: 200px;
-    height: 170px;
+    margin: 20px;
+    width: 300px;
 }
 
 table {
